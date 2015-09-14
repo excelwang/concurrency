@@ -1,0 +1,18 @@
+concurrency(multiple_users_on_remote_table)		
+1TB(stones10)	num_of_user	mean_time(millisec)
+	1	0.80
+	10	1.17
+	15	1.82
+	20	3.98
+2TB(stones02)	num_of_user	mean_time(millisec)
+	1	1.322
+assoc1	10	5.933
+	20	10.551
+	1	1.6
+assoc2	10	7.04
+	20	19.18
+	1	1.26
+assoc4	10	4.02
+	15	8.47
+	20	14.76
+
